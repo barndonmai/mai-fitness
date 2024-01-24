@@ -1,1 +1,1 @@
-#Fitness Gallery Exercising App
+https://mai-fitness.netlify.app
